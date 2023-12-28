@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://e8t45rmn32el"]
+
+[ext_resource type="Script" path="res://parallax_layer/parallax_layer.gd" id="1_ehlwj"]
+
+[node name="ScrollingLayer" type="ParallaxLayer"]
+script = ExtResource("1_ehlwj")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]

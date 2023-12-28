@@ -1,0 +1,14 @@
+res://game/game.tscn
+res://game/game.gd
+res://pipes/pipes.tscn
+res://pipes/pipes.gd
+res://hud/hud.tscn
+res://hud/hud.gd
+res://main/main.tscn
+res://plane_cb/plane_cb.tscn
+res://main/main.gd
+res://scrolling_bg/scrolling_bg.tscn
+res://scrolling_bg/scrolling_bg.gd
+res://parallax_layer/parallax_layer.tscn
+res://parallax_layer/parallax_layer.gd
+res://game_over/game_over.tscn
